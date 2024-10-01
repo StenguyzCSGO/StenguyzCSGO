@@ -4,5 +4,6 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stenguyzcsgo&show_icons=true&locale=en&layout=compact" alt="stenguyzcsgo" /></p>
+![Codewars](https://github.r2v.ch/codewars?user=USERNAME&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stenguyzcsgo&show_icons=true&locale=en" alt="stenguyzcsgo" /></p>
