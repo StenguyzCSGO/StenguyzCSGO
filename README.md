@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Stenguyz</h1>
+<h1 align="center">Hi 👋, I'm CLOS Merlin alias Stenguyz</h1>
 <h3 align="center">Im a software developer. I started with Windows optimization scripts. So I have a good knowledge of OS. I like to code lots of little practical things for my everyday use.</h3>
 
 - #### ***Github Stats*** 
