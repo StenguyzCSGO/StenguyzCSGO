@@ -6,7 +6,8 @@ I'm currently in my second year of a **BUT** (Bachelor Universitaire Technologiq
 - 🎓 **Student** at Université Lyon 1, specializing in application development.
 - 🖥️ **Tech Enthusiast** with a focus on automation and optimization scripts.
 - 💻 **Languages**: I work with **C++**, **Java**, **Python**, **PHP**, and dabble in **Rust**. I'm also experienced in **HTML**, **CSS**, **JavaScript**, and **MySQL** for web development.
-- 🛠️ **Scripting**: I have strong skills in **PowerShell**, **Batch**, and **Bash**, allowing me to create system scripts and automations.
+- 🛠️ **Scripting**: I have strong skills in **PowerShell**, **Batch**, **Bash**, and **Registry Editing** (**Regedit**), which I use to create system scripts that automate tasks like adding, creating, and modifying Windows registry keys for system optimizations.
+
 
 ---
 
