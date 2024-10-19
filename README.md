@@ -45,13 +45,13 @@ A **Batch** script that renames files in a specified folder using a given prefix
 
 ## 📊 GitHub Stats
 
-![Merlin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=StenguyzCSGO&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StenguyzCSGO&layout=donut&theme=radical)
+![Merlin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=StenguyzCSGO&show_icons=true&theme=gradient-orange-red)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StenguyzCSGO&layout=donut&theme=gradient-orange-red)
 
 ---
 
 ## 🎯 Codewars Stats
-![Codewars](https://github.r2v.ch/codewars?user=Stenguyz&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+![Codewars](https://github.r2v.ch/codewars?user=Stenguyz&name=true&top_languages=true&stroke=%23ff6347&theme=gradient-orange-red)
 
 ---
 
@@ -60,4 +60,3 @@ A **Batch** script that renames files in a specified folder using a given prefix
 - **LinkedIn**: Coming soon...
 
 ---
-
