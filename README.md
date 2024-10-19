@@ -30,17 +30,10 @@ I'm currently in my second year of a **BUT** (Bachelor Universitaire Technologiq
 
 ## 📂 Featured Projects
 
-### [WindowsAutounattendSetupScript](https://github.com/StenguyzCSGO/WindowsAutounattendSetupScript)
-This **PowerShell** script simplifies the creation of an `autounattend.xml` file, used during Windows installation to automate the setup process. By using this script, you can set up Windows installations without manual intervention.
-
-**Technologies**: PowerShell, XML
-
----
-
-### [File-Folder-Renamer](https://github.com/StenguyzCSGO/File-Folder-Renamer)
-A **Batch** script that renames files in a specified folder using a given prefix and an incrementing number. The renaming is based on the alphabetical order of files as they appear in Explorer.
-
-**Technologies**: Batch scripting
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [WindowsAutounattendSetupScript](https://github.com/StenguyzCSGO/WindowsAutounattendSetupScript) | A **PowerShell** script to create `autounattend.xml` for automating Windows installations. | PowerShell, XML |
+| [File-Folder-Renamer](https://github.com/StenguyzCSGO/File-Folder-Renamer) | A **Batch** script for renaming files in a folder with a prefix and incrementing number. | Batch scripting |
 
 ---
 
