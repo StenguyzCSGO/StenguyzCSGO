@@ -45,8 +45,8 @@ A **Batch** script that renames files in a specified folder using a given prefix
 
 ## 📊 GitHub Stats
 
-![Merlin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=StenguyzCSGO&show_icons=true&theme=gradient-orange-red)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StenguyzCSGO&layout=donut&theme=gradient-orange-red)
+![Merlin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=StenguyzCSGO&show_icons=true&bg_color=45,BB1900,FD6F01,FFB000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StenguyzCSGO&layout=donut&bg_color=45,BB1900,FD6F01,FFB000)
 
 ---
 
