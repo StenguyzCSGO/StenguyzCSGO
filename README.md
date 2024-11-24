@@ -39,8 +39,8 @@ I'm currently in my second year of a **BUT** (Bachelor Universitaire Technologiq
 
 ## 📊 GitHub Stats
 
-![Merlin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=StenguyzCSGO&show_icons=true&bg_color=45,F05742,F28E49,FFC371&title_color=FFFFFF&text_color=FFFFFF)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StenguyzCSGO&layout=donut-vertical&bg_color=45,F05742,F28E49,FFC371&title_color=FFFFFF&text_color=FFFFFF)
+![Merlin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=StenguyzCSGO&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StenguyzCSGO&layout=donut-vertical)
 
 ---
 
