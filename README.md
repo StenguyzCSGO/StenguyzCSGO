@@ -45,7 +45,7 @@ I'm currently in my second year of a **BUT** (Bachelor Universitaire Technologiq
 ---
 
 ## 🎯 Codewars Stats
-![Codewars](https://github.r2v.ch/codewars?user=Stenguyz&name=true&top_languages=true)
+![Codewars](https://github.r2v.ch/codewars?user=Stenguyz&name=true&top_languages=true&gradient_light_by_level)
 ![RootMe](https://root-me-diff.vercel.app/rm-gh?nickname=Stenguyz)
 
 ---
