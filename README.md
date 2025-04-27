@@ -52,6 +52,6 @@ I'm currently in my second year of a **BUT** (Bachelor Universitaire Technologiq
 
 ## 📞 Contact & Links
 - **University Email**: [merlin.clos@etu.univ-lyon1.fr](mailto:merlin.clos@etu.univ-lyon1.fr)
-- **LinkedIn**: Coming soon...
+- **LinkedIn**: [Merlin Clos](https://www.linkedin.com/in/merlin-clos-73438533a/)
 
 ---
