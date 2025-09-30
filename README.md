@@ -1,57 +1,77 @@
-# Hi there, I'm Merlin Clos! 👋
+# Hi, I'm Merlin Clos
 
-I'm currently in my second year of a **BUT** (Bachelor Universitaire Technologique) in "Application Development." I have a passion for building software and creating optimization scripts, often focused on operating systems.
+🎓 Software Engineering student at **ÉTS Montréal**  
+💻 Passionate about **performance, clean code, and maintainable systems**  
+🚀 Currently seeking a **software development internship (Winter/Summer 2026)**, with a strong interest in **Rust** and backend development  
+
+---
 
 ## ⚡ About Me
-- 🎓 **Student** at Université Lyon 1, specializing in application development.
-- 🖥️ **Tech Enthusiast** with a focus on automation and optimization scripts.
-- 💻 **Languages**: I work with **C++**, **Java**, **Python**, **PHP**, and dabble in **Rust**. I'm also experienced in **HTML**, **CSS**, **JavaScript**, and **MySQL** for web development.
-- 🛠️ **Scripting**: I have strong skills in **PowerShell**, **Batch**, **Bash**, and **Registry Editing** (**Regedit**), which I use to create system scripts that automate tasks like adding, creating, and modifying Windows registry keys for system optimizations.
-
-
----
-
-## 🛠️ Skills & Technologies
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![Batch](https://img.shields.io/badge/-Batch_Scripting-4D4D4D?logo=windows&logoColor=white)
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
-![Qt5](https://img.shields.io/badge/-Qt5-41CD52?logo=qt&logoColor=white)
+- I first got into computing through **optimization**: tweaking Windows, writing PowerShell/Batch scripts, and later **overclocking**.  
+- 🏆 Ranked **Top 2 in France** and **Top 31 worldwide** on [3DMark Time Spy](https://www.3dmark.com/spy/52028926), achieving **+15% performance vs stock hardware** despite hardware limitations.  
+- **Curious and self-taught**: I explore new languages, frameworks, and Linux distros (Debian, Ubuntu, ParrotOS, Raspbian, Pop!_OS, …).  
+- Drawn to **Rust** because it combines what I value: **performance, reliability, and maintainability**.  
+- I also practice on **Codewars** and **RootMe** to sharpen my problem-solving and security skills.  
 
 ---
 
-## 📂 Featured Projects
+## 🛠️ Tech Stack
 
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| [WindowsAutounattendSetupScript](https://github.com/StenguyzCSGO/WindowsAutounattendSetupScript) | A **PowerShell** script to create `autounattend.xml` for automating Windows installations. | PowerShell, XML |
-| [File-Folder-Renamer](https://github.com/StenguyzCSGO/File-Folder-Renamer) | A **Batch** script for renaming files in a folder with a prefix and incrementing number. | Batch scripting |
+**Languages**  
+Rust • TypeScript • JavaScript • PHP • Python • C++ • Java • SQL • Bash • PowerShell • Batch  
 
----
+**Frameworks & Libraries**  
+Laravel • CakePHP • Vue.js • PrimeVue • Qt Creator  
 
-## 📊 GitHub Stats
+**Tools & DevOps**  
+Docker • Makefile • GitHub Actions (CI/CD) • Linters (ESLint, PHP-CS-Fixer)  
 
-![Merlin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=StenguyzCSGO&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StenguyzCSGO&layout=donut-vertical)
+**Databases**  
+PostgreSQL • MariaDB • SQLite • (basic exposure to MongoDB & Neo4j)  
 
----
-
-## 🎯 Codewars Stats
-[![Codewars](https://github.r2v.ch/codewars?user=Stenguyz&name=true&top_languages=true&theme=gradient_light_by_level&stroke=%23ECB613)](https://www.codewars.com/users/Stenguyz)
-[![RootMe](https://root-me-diff.vercel.app/rm-gh?nickname=Stenguyz)](https://www.root-me.org/Stenguyz)
+**Operating Systems**  
+Linux (Debian-based distros: Ubuntu, ParrotOS, Raspbian, Pop!_OS) • Windows  
 
 ---
 
-## 📞 Contact & Links
-- **University Email**: [merlin.clos@etu.univ-lyon1.fr](mailto:merlin.clos@etu.univ-lyon1.fr)
-- **LinkedIn**: [Merlin Clos](https://www.linkedin.com/in/merlin-clos-73438533a/)
+## 🚀 Featured Projects
+- **[Linkify](https://github.com/StenguyzCSGO/linkify)** → Discord bot rewritten in **Rust** (from a Python prototype) to improve performance, memory usage, and stability.  
+- **[KlodOnline](https://www.klod-online.com/)** (private org) → Contributed to a **Docker-based platform** (PHP/JS) with Makefile-driven industrialization, CI/CD pipelines, linters, and feature development.  
+- More on my [repositories](https://github.com/StenguyzCSGO).  
+
+---
+
+## 📊 GitHub & Challenges
+
+<div align="center">
+
+<table>
+<tr>
+<th>GitHub Stats</th>
+<th>Challenges</th>
+</tr>
+<tr>
+<td align="center">
+
+![Merlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=StenguyzCSGO&show_icons=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StenguyzCSGO&layout=donut-vertical)  
+
+</td>
+<td align="center">
+
+[![Codewars](https://github.r2v.ch/codewars?user=Stenguyz&name=true&top_languages=true&theme=light&stroke=%23CCCCCC)](https://www.codewars.com/users/Stenguyz)  
+[![RootMe](https://root-me-diff.vercel.app/rm-gh?nickname=Stenguyz)](https://www.root-me.org/Stenguyz)  
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📫 Contact
+- 📧 Email: **merlin.clos.1@ens.etsmtl.ca**  
+- 💼 LinkedIn: [linkedin.com/in/merlin-clos-73438533a](https://www.linkedin.com/in/merlin-clos-73438533a)  
 
 ---
