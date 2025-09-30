@@ -10,7 +10,7 @@
 - I first got into computing through **optimization**: tweaking Windows, writing PowerShell/Batch scripts, and later **overclocking**.  
 - 🏆 Ranked **Top 2 in France** and **Top 31 worldwide** on [3DMark Time Spy](https://www.3dmark.com/spy/52028926), achieving **+15% performance vs stock hardware** despite hardware limitations.  
 - **Curious and self-taught**: I explore new languages, frameworks, and Linux distros (Debian, Ubuntu, ParrotOS, Raspbian, Pop!_OS, …).  
-- Drawn to **Rust** because it combines what I value: **performance, reliability, and maintainability**.  
+- Currently **growing my skills in Rust** through projects like [Linkify](https://github.com/StenguyzCSGO/linkify). I chose Rust because it reflects what I value: **performance, reliability, and maintainability**.  
 - I also practice on **Codewars** and **RootMe** to sharpen my problem-solving and security skills.  
 
 ---
