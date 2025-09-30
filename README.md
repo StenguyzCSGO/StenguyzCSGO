@@ -2,7 +2,7 @@
 
 🎓 Software Engineering student at **ÉTS Montréal**  
 💻 Passionate about **performance, clean code, and maintainable systems**  
-🚀 Currently seeking a **software development internship (Winter/Summer 2026)**, with a strong interest in **Rust** and backend development  
+🚀 Currently seeking a **software development internship (Winter/Summer 2026)**, with a strong interest in performance-oriented technologies such as Rust.  
 
 ---
 
