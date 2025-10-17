@@ -72,6 +72,5 @@ Linux (Debian-based distros: Ubuntu, ParrotOS, Raspbian, Pop!_OS) • Windows
 
 ## 📫 Contact
 - 📧 Email: **merlin.clos.1@ens.etsmtl.ca**  
-- 💼 LinkedIn: [linkedin.com/in/merlin-clos-73438533a](https://www.linkedin.com/in/merlin-clos-73438533a)  
 
 ---
